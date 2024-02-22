@@ -91,8 +91,8 @@ function Carosel() {
                       <i className="font-axiforma text-lg md:text-[27px]">
                         We know creating a new product can be overwhelming, but
                         Product Hubb walks you through the production process
-                        step by step. With Product Hubb, you don't have to worry
-                        about what's next."
+                        step by step. With Product Hubb, you dont have to worry
+                        about whats next.
                       </i>
                       <br />
                       <i className="font-axiforma  text-base md:text-lg  text-[#2968ff]">
@@ -130,10 +130,10 @@ function Carosel() {
                   <div className="flex flex-col justify-between h-auto xl:h-[520px] ">
                     <div className="mt-10">
                       <i className="font-axiforma text-lg md:text-[27px]">
-                        "We know some of the best work happens outside of the
+                        We know some of the best work happens outside of the
                         office. You can update your project from the factory
                         floor or on a flight, and access powerful tools on the
-                        go."
+                        go
                       </i>
                       <br />
                       <i className="font-axiforma  text-base md:text-lg  text-[#2968ff]">

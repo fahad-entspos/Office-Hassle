@@ -64,7 +64,7 @@ import { BsCheckLg } from "react-icons/bs";function Signup() {
           <div className="flex gap-2 items-center">
             <BsCheckLg className="text-green-500" />{" "}
             <h1 className="text-lg text-[#0d1d3a] font-medium font-axiforma">
-            Streamline your project's Bill of Materials for easier reference
+            Streamline your projects Bill of Materials for easier reference
             </h1>
           </div>
 
