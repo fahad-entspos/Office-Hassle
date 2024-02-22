@@ -3,7 +3,7 @@ import React from 'react'
 function TalentForm() {
   return <>
   
-  <div className="max-w-2xl  bg-white p-16 shadow-2xl">
+  <div className="max-w-2xl  bg-white p-6 xl:p-16 shadow-2xl">
 <h1 className='text-3xl mb-8 font-mono font-semibold'>Create a Preregistration <br /> For Talent</h1>
 	<form>
        

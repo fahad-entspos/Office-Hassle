@@ -10,7 +10,7 @@ function Footer() {
         <div className="flex justify-between  gap-4 flex-wrap">
           <div className="flex flex-col gap-5 flex-wrap">
             <div className="flex items-center gap-1">
-              <img className="w-10 h-10" src="/~office.png" alt="Error" />
+              <img className="w-10 h-10" src="/office.png" alt="Error" />
               <div className="text-black items-center text-lg flex flex-col  ">
                 <h1 className=" text-base font-extrabold  font-serif">
                   OFFICE
